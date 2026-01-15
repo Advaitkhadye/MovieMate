@@ -11,7 +11,7 @@ A modern, full-stack movie booking application designed to deliver a seamless ci
 *   **Digital Tickets:** Instant booking confirmation with QR codes for easy check-ins.
 *   **Personalization:** Save your favorite movies and view your complete booking history.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 MovieMate leverages a modern stack to ensure performance, scalability, and security.
 
