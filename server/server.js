@@ -12,7 +12,7 @@ import userRouter from './routes/userRoutes.js';
 import { stripeWebhooks } from './controllers/stripeWebhooks.js';
 
 const app = express();
-const port = 3000;
+const port = process.env.PORT || 3000;
 
 import Show from './models/Show.js';
 
@@ -61,5 +61,10 @@ app.use('/api/admin', adminRouter)
 app.use('/api/user', userRouter)
 
 
-app.listen(port, () => console.log(`Server listening at http://localhost:${port}`));
+
+if (process.env.NODE_ENV !== 'production') {
+    app.listen(port, () => console.log(`Server listening at http://localhost:${port}`));
+}
+
+export default app;
 
