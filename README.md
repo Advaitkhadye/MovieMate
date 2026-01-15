@@ -7,6 +7,7 @@ A modern, full-stack movie booking application designed to deliver a seamless ci
 ### For Users
 *   **Discover Movies:** Browse through a visually appealing catalog of the latest hits and upcoming releases.
 *   **Interactive Booking:** Select your preferred seats with a real-time, interactive seating layout.
+*   **Booking Cancellation** You can cancel your booked tickets prior to one hour before .   
 *   **Secure Payments:** Integrated payment gateways for safe and hassle-free transactions(right now in test mode).
 *   **Digital Tickets:** Instant booking confirmation with QR codes for easy check-ins.
 *   **Personalization:** Save your favorite movies and view your complete booking history.
@@ -27,7 +28,7 @@ MovieMate leverages a modern stack to ensure performance, scalability, and secur
 *   **Stripe:** For secure and reliable payment processing.
 *   **Nodemailer:** For reliable email notifications.
 
-## 🏁 Getting Started
+## Getting Started
 
 To get a local copy up and running, follow these simple steps.
 
