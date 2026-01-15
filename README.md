@@ -1,12 +1,8 @@
-# MovieMate 🎬
+# MovieMate
 
 A modern, full-stack movie booking application designed to deliver a seamless cinema experience. MovieMate is a movie ticket-booking system with an intuitive interface for browsing, booking, and managing movie tickets.
 
-## 🚀 Overview
-
-MovieMate is built to be fast, responsive, and user-friendly.MovieMate provides a smooth and efficient platform to handle all the tickets booked by the user.
-
-## ✨ Key Features
+## Key Features
 
 ### For Users
 *   **Discover Movies:** Browse through a visually appealing catalog of the latest hits and upcoming releases.
