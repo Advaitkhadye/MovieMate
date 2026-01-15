@@ -1,29 +1,23 @@
 # MovieMate 🎬
 
-A modern, full-stack movie booking application designed to deliver a seamless cinema experience. MovieMate bridges the gap between moviegoers and theaters with an intuitive interface for browsing, booking, and managing movie tickets.
+A modern, full-stack movie booking application designed to deliver a seamless cinema experience. MovieMate is a movie ticket-booking system with an intuitive interface for browsing, booking, and managing movie tickets.
 
 ## 🚀 Overview
 
-MovieMate is built to be fast, responsive, and user-friendly. Whether you're a user looking to catch the latest blockbuster or an administrator managing theater schedules, MovieMate provides a smooth and efficient platform to handle it all.
+MovieMate is built to be fast, responsive, and user-friendly.MovieMate provides a smooth and efficient platform to handle all the tickets booked by the user.
 
 ## ✨ Key Features
 
 ### For Users
 *   **Discover Movies:** Browse through a visually appealing catalog of the latest hits and upcoming releases.
 *   **Interactive Booking:** Select your preferred seats with a real-time, interactive seating layout.
-*   **Secure Payments:** Integrated payment gateways for safe and hassle-free transactions.
+*   **Secure Payments:** Integrated payment gateways for safe and hassle-free transactions(right now in test mode).
 *   **Digital Tickets:** Instant booking confirmation with QR codes for easy check-ins.
 *   **Personalization:** Save your favorite movies and view your complete booking history.
-*   **Responsive Design:** A beautiful experience across desktop, tablet, and mobile devices.
-
-### For Administrators
-*   **Dashboard:** A comprehensive overview of platform performance and bookings.
-*   **Show Management:** effortless tools to add, update, and schedule movie shows.
-*   **Booking Management:** full control to view and manage customer bookings.
 
 ## 🛠️ Tech Stack
 
-MovieMate leverages a powerful modern stack to ensure performance, scalability, and security.
+MovieMate leverages a modern stack to ensure performance, scalability, and security.
 
 ### Frontend
 *   **React (Vite):** For a lightning-fast and dynamic user interface.
